@@ -3,5 +3,6 @@ public class Lab0 {
         System.out.println("AAAA");
         System.out.println("POO RULZ");
         System.out.println("merge???");
+        System.out.println("DA MA MERGE MAAAA!!!");
     }
 }
